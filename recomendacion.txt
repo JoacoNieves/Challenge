@@ -1,0 +1,19 @@
+Recomendación: vender la tienda **tienda_1**.
+
+Motivos (basados en métricas):
+- Ingresos totales: 0.00
+- Número de pedidos (aprox): 2359
+- Ticket promedio (avg_order_value): 0.00
+- Envío promedio: nan
+- Rating promedio: N/A
+- Score combinado (cuanto mayor mejor): 0.9000
+
+Comparación rápida: la mejor tienda es tienda_1 con ingresos 0.00 y score 0.9000.
+
+Interpretación práctica:
+- La combinación de ingresos bajos, ticket promedio reducido y/o peor rating indica que la tienda requiere inversión para recuperarse.
+- Vender esta tienda liberaría recursos (tiempo y dinero) que se pueden reinvertir en tiendas con mayor performance.
+
+Sugerencia adicional:
+- Antes de vender, revisar contratos/stock pendiente y si hay productos con potencial (top products).
+- Si la razón principal es el alto costo de envío, evaluar optimizaciones logísticas como cambiar proveedor de envío o ajustar política de envío gratis.
